@@ -1,0 +1,22 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"C:\\PythonVENV\\Practice_Python3\\Scripts\\python.exe\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"python_interpreter": "C:\\PythonVENV\\Practice_Python3\\Scripts\\python.exe"
+	},
+	"virtualenv": "C:\\PythonVENV\\Practice_Python3"
+}
