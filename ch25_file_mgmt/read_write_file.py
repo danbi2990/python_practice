@@ -1,6 +1,6 @@
 
 # read
-# s1 = open("..\decorator\decorator_class.py", 'r').readlines()
+# s1 = open("..\ch23_decorator\decorator_class.py", 'r').readlines()
 # print(s1)
 
 # reset cursor position
