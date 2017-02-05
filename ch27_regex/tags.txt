@@ -1,3 +1,0 @@
-<composer>Wolfgang Amadeus Mozart</composer>
-<author>Samuel Beckett</author>
-<city>London</city>
