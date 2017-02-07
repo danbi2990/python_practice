@@ -1,4 +1,4 @@
 import subprocess
 
-completed = subprocess.run(['ls', '-1'])
+completed = subprocess.run(['cmd','dir'])
 print('returncode:', completed.returncode)
